@@ -1,2 +1,2 @@
-# angular_playStationStore_clone
+# Angular PlayStation Store Cclone
 Playstation store clone made with Angular
